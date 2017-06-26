@@ -1,0 +1,14 @@
+<systemstats>
+    <date></date>
+    <weekday></weekday>
+    <time></time>
+    <cpuload></cpuload>
+    <memload></memload>
+    <user>
+       <username></username>
+       <process>
+           <pid></pid>
+           <cmd></cmd>
+       </process>
+   </user>
+</systemstats>

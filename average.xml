@@ -1,0 +1,7 @@
+<averagestats>
+    <date></date>            <!-- dd.mm.yyyy -->
+    <weekday></weekday>      <!-- full weekday name -->
+    <time></time>            <!-- hh:mm:ss -->
+    <cpuload></cpuload>      <!—- average CPU load from last 15min -->
+    <memload></memload>      <!—- average memory load from last 15minut -->
+</averagestats>
