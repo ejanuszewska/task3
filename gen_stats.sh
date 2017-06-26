@@ -2,7 +2,7 @@
 
 
 clear
-cd /home/ewa/bash_task3/
+cd /home/ewa/bash_task/
 
 git checkout details
 git pull origin details
